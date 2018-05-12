@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1043
     wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44931#Les-vieilles-villes-des-FlandresBelgique-et-Flandre-fran-aise
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Sciences et Techniques
