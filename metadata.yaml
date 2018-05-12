@@ -1,0 +1,32 @@
+_repo: Les-vieilles-villes-des-FlandresBelgique-et-Flandre-fran-aise_44931
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44931-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR Sciences et Techniques
+- FR Voyages et pays
+gutenberg_issued: '2014-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44931'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders -- Description and travel'
+- !lcc 'DH'
+title: 'Les vieilles villes des Flandres: Belgique et Flandre française'
+url: http://www.gutenberg.org/ebooks/44931
